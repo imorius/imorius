@@ -1,6 +1,4 @@
-<p style="font-size:24px">
-    👋 Hi, I'm _Orius
-</p>
+<h1 align="center">👋 Hi, I'm _Orius</h1>
 
 ## ✨ About me:
 
