@@ -2,7 +2,7 @@
 
 ## ✨ About me:
 
-- 🌱 I'm an undergraduate student majoring in **Game Design & Development** at **[Posts and Telecommunications Institute of Technology](https://ptit.edu.vn)**
+- 🏫 I'm an undergraduate student majoring in **Game Design & Development** at **[Posts and Telecommunications Institute of Technology](https://ptit.edu.vn)**
 - 🧑‍💻 Currently, I'm a backend developer of the **ArgonMC Studio**
 - 📫 Contact me at [me@imorius.dev](mailto:me@imorius.dev) or [Discord](https://discord.com/users/782452298952867840)
 
